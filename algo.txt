@@ -1,0 +1,9 @@
+proses ubah status
+for(loop1=0; loop1>jumlahrecord; loop1++){
+	for(loop2=0; loop2>12bulan; loop2++){
+		if(bulan=lunas){
+			update status=tidak aktif
+		}
+	}
+}
+	
